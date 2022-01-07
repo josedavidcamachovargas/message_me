@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "@doabit/semantic-ui-sass": "^2.4.5",
+    "@rails/actioncable": "^7.0.1",
     "@rails/activestorage": "^7.0.1",
     "@rails/ujs": "^7.0.1",
     "@rails/webpacker": "5.4.3",
