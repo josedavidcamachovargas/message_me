@@ -25,3 +25,7 @@ import '@doabit/semantic-ui-sass'
 // const imagePath = (name) => images(name, true)
 
 console.log('Hello World from Webpacker')
+
+$(document).on('turbolinks:load', function() {
+  $('.ui.dropdown').dropdown();
+})
